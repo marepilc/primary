@@ -1,0 +1,21 @@
+{
+    "visual": {
+        "name": "primary",
+        "displayName": "primary",
+        "guid": "primary5C5003FD9F364EBE89B71BFA1718C74E",
+        "visualClassName": "Visual",
+        "version": "1.0.0.0",
+        "description": "",
+        "supportUrl": "",
+        "gitHubUrl": ""
+    },
+    "apiVersion": "5.3.0",
+    "author": { "name": "", "email": "" },
+    "assets": { "icon": "assets/icon.png" },
+    "externalJS": [],
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": [],
+    "version": "1.0.0.0"
+}

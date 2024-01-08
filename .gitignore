@@ -1,0 +1,53 @@
+# Ignore node modules
+node_modules
+
+# Ignore development local config
+.pbiviz.json
+
+# Ignore local package dependencies
+packaged_dependencies
+
+# Ignore debug log
+npm-debug.log
+
+# Ignore dist directory
+dist
+
+# Ignore temporary files
+*.tmp
+*~
+*.bak
+*.swp
+*.swo
+*.sublime-*
+
+# Ignore log files
+*.log
+
+# Ignore cache and temp files
+.cache
+.tmp
+
+# Ignore IDE files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.csproj
+*.csproj.user
+*.cache
+.DS_Store
+
+# OS generated files
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Ignore the report *.pbix files
+*.pbix
+
+# Ignore webpack statistics
+webpack.statistics.*.html
